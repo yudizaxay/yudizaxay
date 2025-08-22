@@ -11,15 +11,15 @@
 
 ---
 
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 1;">
+    
 ## 🌟 About Me
 
-🔹 Passionate **Blockchain Developer** with expertise in **Solana**, **Ethereum**, and **DeFi ecosystems**.  
-🔹 Building **Telegram trading bots** that simplify crypto trading automation.  
-🔹 Currently leading and managing multiple projects as a **Team Lead & Project Manager**.  
-🔹 Strong believer in the power of **Web3, NFTs, and the Metaverse** to shape the future.  
-🔹 Minimal design lover – I keep code clean, scalable, and meaningful.  
+| | |
+|---|---|
+| 🔹 Passionate **Blockchain Developer** with expertise in **Solana**, **Ethereum**, and **DeFi ecosystems**.<br><br>🔹 Building **Telegram trading bots** that simplify crypto trading automation.<br><br>🔹 Currently leading and managing multiple projects as a **Team Lead & Project Manager**.<br><br>🔹 Strong believer in the power of **Web3, NFTs, and the Metaverse** to shape the future.<br><br>🔹 Minimal design lover – I keep code clean, scalable, and meaningful.<br><br>💡 Motto: *“Code minimal. Build maximal.”* | <a href="https://app.daily.dev/axays"><img src="https://api.daily.dev/devcards/v2/gl2Wkes4HcGWWOBt8bHau.png?type=default&r=deh" width="260" alt="Akshay Singh's Dev Card"/></a> |
 
-💡 Motto: *“Code minimal. Build maximal.”*
 
 ---
 
@@ -51,11 +51,13 @@
   Monitor, manage, and optimize **Solana RPC failover** with real-time visibility ⚡  
   Keeps dApps, bots, and infra always connected to the **fastest, healthiest endpoints** (Helius, QuickNode, Chainstack).
 
-- **Telegram Trading Bot (Solana)**  
+- **🤖 Telegram Trading Bot (Solana)**  
   Smart trading automation bot for Solana blockchain integrated with Telegram.
 
-- **Fluky – Crypto Game**  
+- **🃏 Fluky – Crypto Game**  
   Blockchain-powered game featuring dice roll, slot machine, and roulette with **MetaMask & Trezor integration**.
+
+🧭 **Now:** Leading Solana bot infra (RPC failover via WatchDog), shipping trading automations, mentoring the team, and hardening dApp reliability.
 
 ---
 
@@ -94,7 +96,7 @@
 - 🌐 [Portfolio](https://www.axaysingh.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/axaysingh)  
 - 🐦 [Twitter/X](https://twitter.com/axayrsingh)  
-- 📩 [Email](mailto:your-email@example.com)  
+- 📩 [Email](mailto:axays007@gmail.com)  
 
 ---
 
