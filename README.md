@@ -16,7 +16,7 @@
     
 ## 🌟 About Me
 
-| | |
+| About | Profile Card |
 |---|---|
 | 🔹 Passionate **Blockchain Developer** with expertise in **Solana**, **Ethereum**, and **DeFi ecosystems**.<br><br>🔹 Building **Telegram trading bots** that simplify crypto trading automation.<br><br>🔹 Currently leading and managing multiple projects as a **Team Lead & Project Manager**.<br><br>🔹 Strong believer in the power of **Web3, NFTs, and the Metaverse** to shape the future.<br><br>🔹 Minimal design lover – I keep code clean, scalable, and meaningful.<br><br>💡 Motto: *“Code minimal. Build maximal.”* | <a href="https://app.daily.dev/axays"><img src="https://api.daily.dev/devcards/v2/gl2Wkes4HcGWWOBt8bHau.png?type=default&r=deh" width="260" alt="Akshay Singh's Dev Card"/></a> |
 
