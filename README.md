@@ -69,9 +69,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=yudizaxay&theme=radical&hide_border=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudizaxay&layout=compact&theme=radical&hide_border=true" height="150"/>
 </p>
-
----
 -->
+---
 
 ## 🏆 Achievements & Badges
 
