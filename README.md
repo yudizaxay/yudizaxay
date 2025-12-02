@@ -60,7 +60,7 @@
 🧭 **Now:** Leading Solana bot infra (RPC failover via WatchDog), shipping trading automations, mentoring the team, and hardening dApp reliability.
 
 ---
-
+<!--
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
@@ -68,7 +68,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=yudizaxay&theme=radical&hide_border=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudizaxay&layout=compact&theme=radical&hide_border=true" height="150"/>
 </p>
-
+-->
 ---
 
 ## 🏆 Achievements & Badges
