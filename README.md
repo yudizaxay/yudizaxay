@@ -70,6 +70,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudizaxay&layout=compact&theme=radical&hide_border=true" height="150"/>
 </p>
 -->
+<!--
 ---
 
 ## 🏆 Achievements & Badges
@@ -77,7 +78,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yudizaxay&theme=radical&no-frame=true&margin-w=15&margin-h=15&title=Commits,Repositories,PullRequest,Issues,Experience"/>
 </p>
-
+-->
 ---
 
 ## 🐍 Snake Game
