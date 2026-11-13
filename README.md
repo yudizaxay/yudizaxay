@@ -114,7 +114,7 @@ Blockchain infrastructure tooling focused on improving Solana RPC reliability th
 - 🔌 Relevant to blockchain applications, trading bots, and infrastructure workflows.
 - 🌐 Designed with RPC providers such as Helius, QuickNode, and Chainstack in mind.
 
-### 🏷️ Vanikty Address
+### 🏷️ Vanity Address
 
 Blockchain and Web3 project focused on address-related infrastructure.
 
@@ -151,7 +151,7 @@ Experience across blockchain applications, smart contracts, DeFi, wallet integra
 - 🎯 **1o1 Betting**
 - 🧬 **Biopharma**
 - 🎟️ **Trident Tickets**
-- 🏷️ **Vanikty Address**
+- 🏷️ **Vanity Address**
 
 These projects represent additional experience across blockchain products, Web3 applications, and ecosystem integrations.
 
